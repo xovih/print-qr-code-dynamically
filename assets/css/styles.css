@@ -1,9 +1,9 @@
 .logo {
 	position: fixed;
 	top: 200px;
-	left: 42%;
+	/* left: 42%;
 	bottom: auto;
-	right: auto;
+	right: auto; */
 }
 .browse {
 	position: fixed;
@@ -19,11 +19,6 @@
 	src: url(Roboto/Roboto-Medium.ttf);
 }
 .copyright {
-	position: fixed;
-	top: 470px;
-	left: 46%;
-	bottom: auto;
-	right: auto;
 	font-size: 12;
 	font-family: "Roboto";
 }
