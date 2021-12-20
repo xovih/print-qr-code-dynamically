@@ -1,0 +1,29 @@
+.logo {
+	position: fixed;
+	top: 200px;
+	left: 42%;
+	bottom: auto;
+	right: auto;
+}
+.browse {
+	position: fixed;
+	top: 390px;
+	left: 36%;
+	bottom: auto;
+	right: auto;
+	height: 20px;
+	width: 600px;
+}
+@font-face {
+	font-family: "Roboto";
+	src: url(Roboto/Roboto-Medium.ttf);
+}
+.copyright {
+	position: fixed;
+	top: 470px;
+	left: 46%;
+	bottom: auto;
+	right: auto;
+	font-size: 12;
+	font-family: "Roboto";
+}
